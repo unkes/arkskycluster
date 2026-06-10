@@ -1,0 +1,108 @@
+{
+  "WBUI2": {
+    "settings": {
+      "openbutton": 1,
+      "hideicon": true,
+      "hideiconafter": 12,
+      "iconurl": "https://i.imgur.com/xiSHZdx.png",
+      "disableicontext": false,
+      "iconposition": 3,
+      "icontextcolor": 8,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 12
+    },
+    "tabs": [
+      {
+        "layout": 1,
+        "buttontext": "Welcome",
+        "imageurl": "https://i.imgur.com/xiSHZdx.png",
+        "content": [
+          {
+            "title": "<RichColor Color=\"0.45,0.85,1,1\">ArkSky x5</>",
+            "text": "<TextStyle.White>Welcome to ArkSky x5.</>\n\nA relaxed PvE server for beautiful bases, creature breeding, map exploration, boss runs and friendly progression.\n\n<TextStyle.LightBlue>Open this menu:</> F2\n<TextStyle.Orange>Discord:</> https://discord.gg/Nw8T5jyypt\n\n<TextStyle.White>Добро пожаловать на ArkSky x5.</>\n\nСпокойный PvE сервер для красивых баз, разведения существ, исследования карт, прохождения боссов и комфортного развития.\n\n<TextStyle.LightBlue>Открыть это меню:</> F2\n<TextStyle.Orange>Discord:</> https://discord.gg/Nw8T5jyypt"
+          }
+        ]
+      },
+      {
+        "layout": 2,
+        "buttontext": "Rules",
+        "imageurl": "https://i.imgur.com/xiSHZdx.png",
+        "content": [
+          {
+            "title": "<RichColor Color=\"1,0.35,0.25,1\">Основные правила</>",
+            "text": "<TextStyle.White>Main Rules</>\n\n1. No cheats, dupes, exploits or abuse of game mechanics.\n2. Do not build in passages, caves, terminals, obelisks or important resource spots.\n3. Do not block creature spawns, artifacts, explorer notes or boss content access.\n4. Do not disturb other players while they build, farm or progress.\n5. Respect other players and the administration.\n\n<TextStyle.White>Основные правила</>\n\n1. Запрещены читы, дюпы, эксплойты и обход игровых механик.\n2. Не строй в проходах, пещерах, терминалах, обелисках и важных ресурсных точках.\n3. Не блокируй спавны существ, артефакты, ноты и доступ к босс-контенту.\n4. Не мешай другим игрокам строиться, фармить и развиваться.\n5. Уважай игроков и администрацию."
+          },
+          {
+            "title": "<RichColor Color=\"1,0.75,0.25,1\">PvE этикет</>",
+            "text": "<TextStyle.White>PvE Etiquette</>\n\nDo not take other players' bags, drops or creatures being tamed.\n\nDo not leave temporary structures, traps or clutter after farming or taming.\n\nIf there is a dispute, take a screenshot and contact us in Discord.\n\n<TextStyle.White>PvE этикет</>\n\nНе забирай чужие сумки, дропы и приручаемых существ.\n\nНе оставляй временные постройки, ловушки и мусор после фарма или приручения.\n\nЕсли возник спор, сделай скриншот и напиши в Discord."
+          }
+        ]
+      },
+      {
+        "layout": 4,
+        "buttontext": "Rates",
+        "imageurl": "https://i.imgur.com/xiSHZdx.png",
+        "content": [
+          {
+            "title": "<RichColor Color=\"0.45,0.85,1,1\">XP</>",
+            "text": "<TextStyle.LightBlue>x5</>"
+          },
+          {
+            "title": "<RichColor Color=\"0.45,1,0.55,1\">Harvest</>",
+            "text": "<TextStyle.Green>x5</>"
+          },
+          {
+            "title": "<RichColor Color=\"1,0.7,0.25,1\">Taming</>",
+            "text": "<TextStyle.Orange>x5</>"
+          },
+          {
+            "title": "<RichColor Color=\"0.9,0.55,1,1\">Server</>",
+            "text": "<TextStyle.White>PvE</>"
+          }
+        ]
+      },
+      {
+        "layout": 3,
+        "buttontext": "Info",
+        "imageurl": "https://i.imgur.com/xiSHZdx.png",
+        "content": [
+          {
+            "title": "<RichColor Color=\"0.45,0.85,1,1\">ArkSky x5</>",
+            "text": "ArkSky x5 is made for relaxed PvE gameplay without unnecessary pressure.\n\nBuild beautiful bases, collect creatures, defeat bosses and play at your own pace.\n\nArkSky x5 создан для спокойной PvE-игры без лишней гонки.\n\nСтрой красивые базы, собирай коллекции существ, проходи боссов и играй в своем темпе."
+          },
+          {
+            "title": "Помощь",
+            "text": "If you need admin help, contact us in Discord.\n\nPlease include your nickname, map, coordinates and a short description of the issue.\n\nЕсли нужна помощь администрации, напиши в Discord.\n\nУкажи ник, карту, координаты и коротко опиши проблему."
+          },
+          {
+            "title": "Обновления",
+            "text": "News, restarts, mod changes and events are posted in Discord.\n\nНовости, рестарты, изменения модов и события публикуются в Discord."
+          }
+        ]
+      },
+      {
+        "layout": 2,
+        "buttontext": "Discord",
+        "imageurl": "https://i.imgur.com/xiSHZdx.png",
+        "content": [
+          {
+            "title": "<RichColor Color=\"0.45,0.85,1,1\">Discord ArkSky</>",
+            "text": "Discord is used for news, tickets, announcements, finding other players and contacting the administration.\n\n<TextStyle.LightBlue>Invite:</> https://discord.gg/Nw8T5jyypt\n\nDiscord нужен для новостей, тикетов, объявлений, поиска игроков и связи с администрацией.\n\n<TextStyle.LightBlue>Ссылка:</> https://discord.gg/Nw8T5jyypt"
+          },
+          {
+            "title": "<RichColor Color=\"1,0.75,0.25,1\">Перед обращением</>",
+            "text": "For faster help, include a screenshot, coordinates, map, approximate time of the issue and your in-game nickname.\n\nДля быстрой помощи приложи скриншот, координаты, карту, примерное время проблемы и свой игровой ник."
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "<RichColor Color=\"0.45,0.85,1,1\">Discord</>",
+        "url": "https://discord.gg/Nw8T5jyypt"
+      }
+    ],
+    "version": 2
+  }
+}
