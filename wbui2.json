@@ -1,7 +1,7 @@
 {
   "WBUI2": {
     "settings": {
-      "openbutton": 4,
+      "openbutton": 6,
       "hideicon": true,
       "hideiconafter": 12,
       "iconurl": "https://i.imgur.com/xiSHZdx.png",
@@ -14,43 +14,78 @@
     },
     "tabs": [
       {
-        "layout": 1,
+        "layout": 2,
         "buttontext": "Welcome",
         "imageurl": "",
         "content": [
           {
-            "title": "<RichColor Color=\"0.45,0.85,1,1\">ArkSky x5</>",
-            "text": "<TextStyle.White>Welcome to ArkSky x5.</>\n\nA relaxed PvE server for beautiful bases, creature breeding, map exploration, boss runs and friendly progression.\n\n<TextStyle.LightBlue>Open this menu:</> F5\n<TextStyle.Orange>Discord:</> https://discord.gg/Nw8T5jyypt\n<TextStyle.Yellow>Shop:</> asa.arksky.net\n\n<TextStyle.White>Добро пожаловать на ArkSky x5.</>\n\nСпокойный PvE сервер для красивых баз, разведения существ, исследования карт, прохождения боссов и комфортного развития.\n\n<TextStyle.LightBlue>Открыть это меню:</> F5\n<TextStyle.Orange>Discord:</> https://discord.gg/Nw8T5jyypt\n<TextStyle.Yellow>Магазин:</> asa.arksky.net"
+            "title": "<RichColor Color=\"0.45,0.85,1,1\">Добро пожаловать</>",
+            "text": "Спокойный PvE-сервер со ставками <RichColor Color=\"0.45,1,0.55,1\">x10</> — для красивых баз, разведения существ, исследования карт и прохождения боссов без гонки.\n\nПанель открывается сама при входе. Открыть её снова — клавиша <RichColor Color=\"0.45,0.85,1,1\">Home</>.\n\n<RichColor Color=\"0.45,0.85,1,1\">Discord:</> https://discord.gg/Nw8T5jyypt"
+          },
+          {
+            "title": "<RichColor Color=\"0.45,0.85,1,1\">Welcome</>",
+            "text": "A relaxed PvE server at <RichColor Color=\"0.45,1,0.55,1\">x10</> rates — for beautiful bases, breeding, map exploration and boss runs without the grind.\n\nThis panel opens on join. To open it again press <RichColor Color=\"0.45,0.85,1,1\">Home</>.\n\n<RichColor Color=\"0.45,0.85,1,1\">Discord:</> https://discord.gg/Nw8T5jyypt"
           }
         ]
       },
       {
-        "layout": 1,
+        "layout": 4,
         "buttontext": "Rules",
         "imageurl": "",
         "content": [
           {
-            "title": "<RichColor Color=\"1,0.75,0.25,1\">Rules / Правила</>",
-            "text": "<TextStyle.White>Main Rules</>\n\n1. No cheats, dupes, exploits or abuse of game mechanics.\n2. Do not build in passages, caves, terminals, obelisks or important resource spots.\n3. Do not block creature spawns, artifacts, explorer notes or boss content access.\n4. Do not disturb other players while they build, farm or progress.\n5. Respect other players and the administration.\n\n<TextStyle.White>PvE Etiquette</>\n\nDo not take other players' bags, drops or creatures being tamed.\nDo not leave temporary structures, traps or clutter after farming or taming.\nIf there is a dispute, take a screenshot and contact us in Discord.\n\n<TextStyle.White>Основные правила</>\n\n1. Запрещены читы, дюпы, эксплойты и обход игровых механик.\n2. Не строй в проходах, пещерах, терминалах, обелисках и важных ресурсных точках.\n3. Не блокируй спавны существ, артефакты, ноты и доступ к босс-контенту.\n4. Не мешай другим игрокам строиться, фармить и развиваться.\n5. Уважай игроков и администрацию.\n\n<TextStyle.White>PvE этикет</>\n\nНе забирай чужие сумки, дропы и приручаемых существ.\nНе оставляй временные постройки, ловушки и мусор после фарма или приручения.\nЕсли возник спор, сделай скриншот и напиши в Discord."
+            "title": "<RichColor Color=\"1,0.35,0.25,1\">Правила</>",
+            "text": "1. Запрещены читы, дюпы, эксплойты и обход игровых механик.\n2. Не строй в проходах, пещерах, у терминалов, обелисков и на важных ресурсных точках.\n3. Не блокируй спавны существ, артефакты, ноты и доступ к боссам.\n4. Не мешай другим строиться, фармить и развиваться.\n5. Уважай игроков и администрацию."
+          },
+          {
+            "title": "<RichColor Color=\"1,0.35,0.25,1\">Rules</>",
+            "text": "1. No cheats, dupes, exploits or abuse of game mechanics.\n2. Do not build in passages, caves, at terminals, obelisks or key resource spots.\n3. Do not block creature spawns, artifacts, notes or boss access.\n4. Do not disturb other players while they build, farm or progress.\n5. Respect other players and the administration."
+          },
+          {
+            "title": "<RichColor Color=\"1,0.75,0.25,1\">PvE этикет</>",
+            "text": "Не забирай чужие сумки, дропы и приручаемых существ.\n\nНе оставляй после фарма и приручения временные постройки, ловушки и мусор.\n\nСпорная ситуация — сделай скриншот и напиши в Discord."
+          },
+          {
+            "title": "<RichColor Color=\"1,0.75,0.25,1\">PvE etiquette</>",
+            "text": "Do not take other players' bags, drops or creatures being tamed.\n\nDo not leave temporary structures, traps or clutter after farming or taming.\n\nIf there is a dispute, take a screenshot and write to us in Discord."
           }
         ]
       },
       {
-        "layout": 3,
+        "layout": 2,
+        "buttontext": "Donate",
+        "imageurl": "",
+        "content": [
+          {
+            "title": "<RichColor Color=\"0.45,1,0.55,1\">Поддержать проект</>",
+            "text": "На нашем сайте можно купить <RichColor Color=\"0.45,0.85,1,1\">любого динозавра или любой ресурс</> — и этим поддержать проект. Деньги идут на аренду серверов и развитие кластера.\n\n<RichColor Color=\"0.45,0.85,1,1\">Сайт:</> https://asa.arksky.net\n\nОплата <RichColor Color=\"0.45,1,0.55,1\">картой любой страны</>, а также через <RichColor Color=\"0.45,1,0.55,1\">PayPal</>.\n\nПокупка приходит в игру автоматически."
+          },
+          {
+            "title": "<RichColor Color=\"0.45,1,0.55,1\">Support the project</>",
+            "text": "On our website you can buy <RichColor Color=\"0.45,0.85,1,1\">any creature or any resource</> and support the project at the same time. The money goes to server rent and cluster development.\n\n<RichColor Color=\"0.45,0.85,1,1\">Website:</> https://asa.arksky.net\n\nPay with a <RichColor Color=\"0.45,1,0.55,1\">card from any country</> or via <RichColor Color=\"0.45,1,0.55,1\">PayPal</>.\n\nYour purchase is delivered in game automatically."
+          }
+        ]
+      },
+      {
+        "layout": 4,
         "buttontext": "Info",
         "imageurl": "",
         "content": [
           {
-            "title": "<RichColor Color=\"0.45,0.85,1,1\">ArkSky x5</>",
-            "text": "ArkSky x5 is made for relaxed PvE gameplay without unnecessary pressure.\n\nBuild beautiful bases, collect creatures, defeat bosses and play at your own pace.\n\nArkSky x5 создан для спокойной PvE-игры без лишней гонки.\n\nСтрой красивые базы, собирай коллекции существ, проходи боссов и играй в своем темпе."
+            "title": "<RichColor Color=\"0.45,0.85,1,1\">О сервере</>",
+            "text": "ArkSky x10 сделан для спокойной PvE-игры без лишней гонки.\n\nСтрой красивые базы, собирай коллекции существ, проходи боссов и играй в своём темпе."
           },
           {
-            "title": "Help / Помощь",
-            "text": "If you need admin help, contact us in Discord.\n\nPlease include your nickname, map, coordinates and a short description of the issue.\n\nЕсли нужна помощь администрации, напиши в Discord.\n\nУкажи ник, карту, координаты и коротко опиши проблему."
+            "title": "<RichColor Color=\"0.45,0.85,1,1\">About</>",
+            "text": "ArkSky x10 is made for relaxed PvE gameplay without unnecessary pressure.\n\nBuild beautiful bases, collect creatures, defeat bosses and play at your own pace."
           },
           {
-            "title": "Shop / Магазин",
-            "text": "<TextStyle.Yellow>Support the server and buy extra services:</>\nasa.arksky.net\n\n<TextStyle.Yellow>Поддержать сервер и купить дополнительные услуги:</>\nasa.arksky.net"
+            "title": "<RichColor Color=\"1,0.75,0.25,1\">Помощь и новости</>",
+            "text": "Нужна помощь администрации — напиши в Discord. Укажи ник, карту, координаты и коротко опиши проблему.\n\nНовости, рестарты, изменения модов и события публикуются там же."
+          },
+          {
+            "title": "<RichColor Color=\"1,0.75,0.25,1\">Help and news</>",
+            "text": "Need admin help? Write to us in Discord. Include your nickname, map, coordinates and a short description of the issue.\n\nNews, restarts, mod changes and events are posted there too."
           }
         ]
       }
