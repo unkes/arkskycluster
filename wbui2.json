@@ -20,11 +20,11 @@
         "content": [
           {
             "title": "<RichColor Color=\"0.45,0.85,1,1\">Добро пожаловать</>",
-            "text": "<RichColor Color=\"0.45,1,0.55,1\"><RichColor Color=\"0.45,1,0.55,1\">Ставки x10</></>\n\nСпокойный PvE-сервер для красивых баз, разведения существ,\nисследования карт и прохождения боссов без гонки.\n\n\n<TextStyle.White><TextStyle.White>Панель открывается сама при входе.</></>\nОткрыть её снова — клавиша <RichColor Color=\"0.45,0.85,1,1\"><RichColor Color=\"0.45,0.85,1,1\">Home</></>\n\n\n<RichColor Color=\"0.45,0.85,1,1\">Discord</>\nhttps://discord.gg/Nw8T5jyypt"
+            "text": "<RichColor Color=\"0.45,1,0.55,1\"><RichColor Color=\"0.45,1,0.55,1\">Рейты x10</></>\n\nPvE-кластер с многолетним опытом работы,\nотзывчивой администрацией и своими личными наработками.\n\n\n<TextStyle.White><TextStyle.White>Будь частью комьюнити — присоединяйся в Discord</></>\n<RichColor Color=\"0.45,0.85,1,1\">https://discord.gg/Nw8T5jyypt</>\n\n\nПанель открывается сама при входе.\nОткрыть её снова — клавиша <RichColor Color=\"0.45,0.85,1,1\"><RichColor Color=\"0.45,0.85,1,1\">Home</></>"
           },
           {
             "title": "<RichColor Color=\"0.45,0.85,1,1\">Welcome</>",
-            "text": "<RichColor Color=\"0.45,1,0.55,1\"><RichColor Color=\"0.45,1,0.55,1\">Rates x10</></>\n\nA relaxed PvE server for beautiful bases, breeding,\nmap exploration and boss runs without the grind.\n\n\n<TextStyle.White><TextStyle.White>This panel opens on join.</></>\nTo open it again press <RichColor Color=\"0.45,0.85,1,1\"><RichColor Color=\"0.45,0.85,1,1\">Home</></>\n\n\n<RichColor Color=\"0.45,0.85,1,1\">Discord</>\nhttps://discord.gg/Nw8T5jyypt"
+            "text": "<RichColor Color=\"0.45,1,0.55,1\"><RichColor Color=\"0.45,1,0.55,1\">Rates x10</></>\n\nA PvE cluster with years of experience,\nresponsive admins and our own custom features.\n\n\n<TextStyle.White><TextStyle.White>Be part of the community — join our Discord</></>\n<RichColor Color=\"0.45,0.85,1,1\">https://discord.gg/Nw8T5jyypt</>\n\n\nThis panel opens on join.\nTo open it again press <RichColor Color=\"0.45,0.85,1,1\"><RichColor Color=\"0.45,0.85,1,1\">Home</></>"
           }
         ]
       },
