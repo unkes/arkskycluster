@@ -52,6 +52,29 @@
         ]
       },
       {
+        "layout": 4,
+        "buttontext": "Commands",
+        "imageurl": "https://raw.githubusercontent.com/unkes/arkskycluster/main/wbui2_bg.png",
+        "content": [
+          {
+            "title": "<RichColor Color=\"0.45,0.85,1,1\">Телепорты</>",
+            "text": "<RichColor Color=\"0.45,0.85,1,1\">/sethome</>  сохранить домашнюю точку\n<RichColor Color=\"0.45,0.85,1,1\">/home</>  вернуться домой\n<RichColor Color=\"0.45,0.85,1,1\">/tpr ID</>  запрос телепорта к игроку\n<RichColor Color=\"0.45,0.85,1,1\">/tpa</>  принять входящий запрос\n<RichColor Color=\"0.45,0.85,1,1\">/canceltp</>  отменить телепорт\n<RichColor Color=\"0.45,0.85,1,1\">/implant</>  свой ID для /tpr\n<RichColor Color=\"0.45,0.85,1,1\">/warp имя</>  телепорт на варп, <RichColor Color=\"0.45,0.85,1,1\">/warplist</>  список\n<RichColor Color=\"0.45,0.85,1,1\">/setwarp имя</>  свой варп, <RichColor Color=\"0.45,0.85,1,1\">/delwarp имя</>  удалить\n\nТелепорт через 5 секунд — не двигайтесь. Повтор — 30 секунд.\n<RichColor Color=\"1,0.75,0.25,1\">Команды телепорта доступны группе Premium.</>"
+          },
+          {
+            "title": "<RichColor Color=\"0.45,0.85,1,1\">Teleports</>",
+            "text": "<RichColor Color=\"0.45,0.85,1,1\">/sethome</>  save your home point\n<RichColor Color=\"0.45,0.85,1,1\">/home</>  return home\n<RichColor Color=\"0.45,0.85,1,1\">/tpr ID</>  request a teleport to a player\n<RichColor Color=\"0.45,0.85,1,1\">/tpa</>  accept an incoming request\n<RichColor Color=\"0.45,0.85,1,1\">/canceltp</>  cancel the teleport\n<RichColor Color=\"0.45,0.85,1,1\">/implant</>  your ID for /tpr\n<RichColor Color=\"0.45,0.85,1,1\">/warp name</>  teleport to a warp, <RichColor Color=\"0.45,0.85,1,1\">/warplist</>  list\n<RichColor Color=\"0.45,0.85,1,1\">/setwarp name</>  your warp, <RichColor Color=\"0.45,0.85,1,1\">/delwarp name</>  delete\n\nThe teleport fires after 5 seconds — do not move. Repeat — 30 s.\n<RichColor Color=\"1,0.75,0.25,1\">Teleport commands are for the Premium group.</>"
+          },
+          {
+            "title": "<RichColor Color=\"0.45,1,0.55,1\">Магазин, сайт и Discord</>",
+            "text": "<RichColor Color=\"1,0.75,0.25,1\">Магазин в игре</> — клавиша <RichColor Color=\"0.45,1,0.55,1\">F2</>\nВ чате: /itemshop — каталог, /buy id кол-во — купить,\n/sell id кол-во — продать, /money — баланс, /kit — наборы.\n\n<RichColor Color=\"1,0.75,0.25,1\">Сайт</>  <RichColor Color=\"0.45,0.85,1,1\">https://asa.arksky.net</>\n/link — код для входа на сайт, действует 10 минут.\n\n<RichColor Color=\"1,0.75,0.25,1\">Discord</>\n/ds — код привязки. Дальше в Discord введи:  /ds код\nКод действует 10 минут."
+          },
+          {
+            "title": "<RichColor Color=\"0.45,1,0.55,1\">Shop, website and Discord</>",
+            "text": "<RichColor Color=\"1,0.75,0.25,1\">In-game shop</> — press <RichColor Color=\"0.45,1,0.55,1\">F2</>\nIn chat: /itemshop — catalogue, /buy id amount — buy,\n/sell id amount — sell, /money — balance, /kit — kits.\n\n<RichColor Color=\"1,0.75,0.25,1\">Website</>  <RichColor Color=\"0.45,0.85,1,1\">https://asa.arksky.net</>\n/link — a login code for the site, valid for 10 minutes.\n\n<RichColor Color=\"1,0.75,0.25,1\">Discord</>\n/ds — a linking code. Then type in Discord:  /ds code\nThe code is valid for 10 minutes."
+          }
+        ]
+      },
+      {
         "layout": 2,
         "buttontext": "Donate",
         "imageurl": "https://raw.githubusercontent.com/unkes/arkskycluster/main/wbui2_bg.png",
